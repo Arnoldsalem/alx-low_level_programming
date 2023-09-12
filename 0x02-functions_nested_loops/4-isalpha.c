@@ -4,7 +4,8 @@
   * letter Another cases, shows 0
   *
   *@c: the character is ASCII code
-  * Return: 1 for letters' 0 for the rest
+  *
+  * Return: 1 for letters. 0 for the rest
   */
 int _isalpha(int c)
 {
